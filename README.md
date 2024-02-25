@@ -15,7 +15,7 @@ wget -O /tmp/netdata-uninstaller.sh https://raw.githubusercontent.com/netdata/ne
 ```
 When it has finished downloading the "netdata-uninstaller.sh" file, you will insert the final command:
 ```python
-sudo bash /tmp/netdata-uninstaller.sh
+sudo bash /tmp/netdata-uninstaller.sh --yes
 ```
 
 After that, there will be questions, and if you want to permanently uninstall the whole software, then proceed to type "Y" on the following question the uninstaller will give you.
