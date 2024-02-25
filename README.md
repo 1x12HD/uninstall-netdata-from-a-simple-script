@@ -1,0 +1,1 @@
+# uninstall-netdata-from-a-simple-script
